@@ -1,1 +1,1 @@
-we implement 3 sorting alg
+# Sorting Algorithm dor Integer Arrays
